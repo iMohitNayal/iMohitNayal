@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohit Nayal</h1>
 <h3 align="center">As a Graphic & Software Developer</h3>
 
-<img align="right" alt="coding" width="300"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0xDXG24BUHYYWzmBrAJSey&ust=1696004925882000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDXi-vczYEDFQAAAAAdAAAAABAE"> 
+<img align="right" alt="coding" width="300"src="![image](https://github.com/iMohitNayal/iMohitNayal/assets/146245422/08ef5dc2-8ea4-484b-bbb7-16eb51e4450a)
+"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imohitnayal&label=Profile%20views&color=0e75b6&style=flat" alt="imohitnayal" /> </p>
 
