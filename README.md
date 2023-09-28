@@ -1,4 +1,4 @@
-
+![logo](https://github.com/iMohitNayal/iMohitNayal/blob/main/Github.png)
 <h1 align="center">Hi 👋, I'm Mohit Nayal</h1>
 <h3 align="center">As a Graphic & Software Developer</h3>
 
