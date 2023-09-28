@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohit Nayal</h1>
 <h3 align="center">As a Graphic & Software Developer</h3>
 
-<img align="right" alt="coding" width="400"src="https://github.com/iMohitNayal/iMohitNayal/assets/146245422/f8376ca2-b9b6-4f5b-9d66-09638e3dda90">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imohitnayal&label=Profile%20views&color=0e75b6&style=flat" alt="imohitnayal" /> </p>
 
 - 🌱 I’m currently learning **Programming language , UI & UX Design**
