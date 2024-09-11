@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **iconicPahadii@gmail.com**
 
-- ⚡ Rhymes **Mohit Nayal is My Name and Doing Freelance Is my Game**
+- ⚡ Rhymes **Mohit Nayal is My Name and Doing Freelance Work Is my Game**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
