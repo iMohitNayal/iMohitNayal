@@ -2,6 +2,12 @@
 <h1 align="center">Hi 👋, I'm Mohit Nayal</h1>
 <h3 align="center">As a Graphic & Software Developer</h3>
 
+<div align="center"> 
+    <h1>  
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Hey..+I'm+Neeru;Welcome+to+my+Github+profile!;Passionate+about+Coding!;Exploring+new+technologies!;Let's+code+together!;Passionate+about+Coding!;" alt="Typing SVG"/> 
+    </h1>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imohitnayal&label=Profile%20views&color=0e75b6&style=flat" alt="imohitnayal" /> </p>
 
 - 🌱 I’m currently learning **Programming language , UI & UX Design**
