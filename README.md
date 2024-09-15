@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imohitnayal&label=Profile%20views&color=0e75b6&style=flat" alt="imohitnayal" /> </p>
 
-- 🌱 I’m currently learning **Programming language , UI & UX Design**
+- 🌱 I’m a Freelancer I Do **WEB DEVELOPMENT, UI & UX DESIGNER**
 
 - 👨‍💻 Youtube Portfolio [https://www.youtube.com/@MohitPixnfy](https://www.youtube.com/@MohitPixnfy)
 
