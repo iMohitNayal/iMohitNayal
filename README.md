@@ -1,6 +1,6 @@
 ![logo](https://github.com/iMohitNayal/iMohitNayal/blob/main/Github.png)
 <h1 align="center">Hi 👋, I'm Mohit Nayal</h1>
-<h3 align="center">As a Graphic Design & Software Developer</h3>
+<h3 align="center">As a Graphic Designer & Software Developer</h3>
 
 <div align="center"> 
     <h1>  
